@@ -1,0 +1,14 @@
+body {
+  background-color: grey;
+}
+
+button {
+  all: unset;
+  font-size: 1.5em;
+  padding: 0.5em 1em;
+  background-color: purple;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+  border-radius: 8px;
+}
